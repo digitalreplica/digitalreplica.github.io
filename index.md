@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<p>foo</p>
