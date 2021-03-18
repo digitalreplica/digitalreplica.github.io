@@ -13,7 +13,7 @@ Larger AWS-based organizations use multiple AWS accounts to separate their envio
 # Design
 This approach uses Amazon's own management tools for a simple, easy-to use system. The key tools are:
 
-[AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html): Centralized management management and billing for multiple AWS accounts
+[AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html): Centralized management management and billing for multiple AWS accounts.
 
 [AWS Single Sign-On](https://docs.aws.amazon.com/singlesignon/latest/userguide/what-is.html): Centralized administrator accounts.
 

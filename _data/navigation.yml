@@ -1,3 +1,7 @@
 main:
   - title: "Hacking"
     url: /hacking/
+  - title: "Privacy"
+    url: /privacy/
+  - title: "Writing"
+    url: /writing/
