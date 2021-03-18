@@ -262,6 +262,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-include-cache
+  jekyll-redirect-from
   webrick
 
 BUNDLED WITH
