@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "DigitalReplica, LLC"
 description              : "Hacking AWS-based organizations"
 url                      : "https://digitalreplica.github.io"
-baseurl                  : "/"
+baseurl                  : #"/"
 repository               : "digitalreplica/digitalreplica.github.io"
 teaser                   : # "/assets/images/frank-wang-4r9tYHlwTL8-unsplash-dark.jpg"
 logo                     : # "/assets/images/frank-wang-4r9tYHlwTL8-unsplash-dark.jpg"
