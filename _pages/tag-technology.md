@@ -4,5 +4,4 @@ layout: tag
 permalink: /tags/technology/
 taxonomy: privacy
 ---
-
-Sample post listing for the tag `technology`.
+The love of science and technology, and the effort to get it working.

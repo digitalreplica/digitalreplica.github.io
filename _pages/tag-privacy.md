@@ -4,5 +4,4 @@ layout: tag
 permalink: /tags/privacy/
 taxonomy: privacy
 ---
-
-Sample post listing for the tag `privacy`.
+The impact of security, privacy and technology on our daily lives.

@@ -4,5 +4,4 @@ layout: tag
 permalink: /tags/security/
 taxonomy: security
 ---
-
-Sample post listing for the tag `security`.
+The impact of security, privacy and technology on our daily lives.
