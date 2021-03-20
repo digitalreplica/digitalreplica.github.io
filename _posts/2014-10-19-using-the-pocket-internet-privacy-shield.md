@@ -1,6 +1,6 @@
 ---
 title:  "Using the Pocket Internet Privacy Shield"
-categories: geek
+category: articles
 tags:
   - privacy
 excerpt: "Using a custom TP-Link pocket router, OpenWRT and a privacy VPN to

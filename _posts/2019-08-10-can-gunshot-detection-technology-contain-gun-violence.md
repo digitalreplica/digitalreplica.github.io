@@ -1,6 +1,9 @@
 ---
 title:  "Can gunshot detection technology contain gun violence?"
-categories: seeker
+category: articles
+tags:
+  - privacy
+  - technology
 excerpt: "A gunshot detector can be made with 99% accuracy for under $100. Can we use this technology to help contain gun violence?"
 ---
 ![Can gunshot detection technology contain gun violence?]({{ site.url }}{{ site.baseurl }}/assets/images/2019-08-10-can-gunshot-detection-technology-contain-gun-violence/microphone.jpg)

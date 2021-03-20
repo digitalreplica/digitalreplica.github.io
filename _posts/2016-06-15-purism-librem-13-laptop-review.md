@@ -1,8 +1,9 @@
 ---
 title:  "Purism Librem 13 Laptop Review"
-categories: geek
+category: articles
 tags:
   - privacy
+  - technology
 excerpt: "Review of the Purism Librem 13 laptop for running Qubes OS"
 ---
 ![Purism Librem 13 Laptop Review]({{ site.url }}{{ site.baseurl }}/assets/images/2016-06-15-purism-librem-13-laptop-review/l13-v3-turns100.png)

@@ -1,6 +1,6 @@
 ---
 title:  "Privacy From Corporate Data Gathering"
-categories: seeker
+category: articles
 tags:
   - privacy
 excerpt: "A practical guide to opt out of pervasive data gathering by setting up an alternate online identity."

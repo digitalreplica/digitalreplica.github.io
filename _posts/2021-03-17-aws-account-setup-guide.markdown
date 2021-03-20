@@ -1,6 +1,9 @@
 ---
 title:  "AWS Multi-Account SSO Setup Guide"
-categories: hacker
+category: articles
+tags:
+  - hacking
+  - technology
 excerpt: "You need multiple AWS accounts for hacking. This guide will show you how, using AWS Organizations and SSO."
 ---
 You need multiple AWS accounts for hacking. This guide will show you how, using AWS Organizations and SSO.

@@ -1,6 +1,8 @@
 ---
 title:  "OpenLDAP for LDAP Plain Text Password Capture"
-categories: hacker
+category: articles
+tags:
+  - hacking
 excerpt: "How to set up a malicious ldap server to capture credentials during a penetration test"
 ---
 ![OpenLDAP for LDAP Plain Text Password Capture]({{ site.url }}{{ site.baseurl }}/assets/images/2015-10-22-openldap-for-ldap-plain-text-password-capture/LDAPworm-passwords.png)

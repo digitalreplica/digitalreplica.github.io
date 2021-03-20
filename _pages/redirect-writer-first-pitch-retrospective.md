@@ -1,6 +1,6 @@
 ---
 layout: redirected
 sitemap: false
-permalink: /first-pitch-retrospective/
+permalink: /writer/first-pitch-retrospective/
 redirect_to: /articles/first-pitch-retrospective/
 ---

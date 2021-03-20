@@ -1,8 +1,8 @@
 ---
 title:  "LastPass Identities + Browser profiles = Awesomeness"
-categories: geek
+category: articles
 tags:
-  - privacy
+  - security
 excerpt: "Using LastPass Identities with browser profiles can help keep online identities separate and increase security."
 ---
 ![LastPass Identities + Browser profiles = Awesomeness]({{ site.url }}{{ site.baseurl }}/assets/images/2018-04-08-lastpass-identities-plus-browser-profiles-equals-awesomeness/lastpass_identities.png)

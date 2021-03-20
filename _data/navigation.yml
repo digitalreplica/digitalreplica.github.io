@@ -1,22 +1,26 @@
 main:
-  - title: "Seeker"
-    url: /seeker/
-  - title: "Hacker"
-    url: /hacker/
-  - title: "Writer"
-    url: /writer/
-  - title: "Geek"
-    url: /geek/
+  - title: "Articles"
+    url: /articles/
+  - title: "About"
+    url: /about/
 sidebar:
-  - title: Posts
+  - title: Tags
     children:
-      - title: "Categories"
+      - title: "Hacking"
+        url: /tags/hacking/
+      - title: "Privacy"
+        url: /tags/privacy/
+      - title: "Security"
+        url: /tags/security/
+      - title: "Technology"
+        url: /tags/technology/
+      - title: "Writing"
+        url: /tags/writing/
+  - title: Group By
+    children:
+      - title: "Category"
         url: /categories/
-      - title: "Tags"
+      - title: "Tag"
         url: /tags/
-      - title: "Years"
+      - title: "Year"
         url: /years/
-  - title: Meta
-    children:
-      - title: "About"
-        url: /about/
