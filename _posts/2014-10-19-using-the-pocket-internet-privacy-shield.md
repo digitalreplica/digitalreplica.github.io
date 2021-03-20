@@ -1,6 +1,8 @@
 ---
 title:  "Using the Pocket Internet Privacy Shield"
-categories: privacy
+categories: geek
+tags:
+  - privacy
 excerpt: "Using a custom TP-Link pocket router, OpenWRT and a privacy VPN to
 protect your privacy on untrusted networks like hotels and coffee shops."
 ---

@@ -1,6 +1,8 @@
 ---
 title:  "Solving CloudFlare and Let's Encrypt Issues on a new Ghost Blog"
-categories: writing
+categories: geek
+tags:
+  - privacy
 excerpt: "I wanted to consolidate two websites into a single, new Ghost platform. Re-using one of the existing URLs, and having the site behind the CloudFlare CDN caused issues with the install and LetsEncrypt SSL setup. Here’s what I did to get everything working."
 ---
 I wanted to consolidate two websites into a single, new Ghost platform. Re-using one of the existing URLs, and having the site behind the CloudFlare CDN caused issues with the install and LetsEncrypt SSL setup. Here’s what I did to get everything working.

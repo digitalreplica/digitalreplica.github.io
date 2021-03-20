@@ -1,6 +1,8 @@
 ---
 title:  "Pocket Internet Privacy Shield"
-categories: privacy
+categories: geek
+tags:
+  - privacy
 excerpt: "When traveling, Internet access in hotels is totally insecure. You can't trust they've done it right. So this guide helps you create your own travel router to send all traffic through the VPN of your choice."
 ---
 ![tplink running openwrt]({{ site.url }}{{ site.baseurl }}/assets/images/2014-10-10-pocket-internet-privacy-shield/tplink_tl-wr710n_openwrt-1.png)

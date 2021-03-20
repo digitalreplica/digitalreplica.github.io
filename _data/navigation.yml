@@ -1,7 +1,22 @@
 main:
-  - title: "Hacking"
-    url: /hacking/
-  - title: "Privacy"
-    url: /privacy/
-  - title: "Writing"
-    url: /writing/
+  - title: "Seeker"
+    url: /seeker/
+  - title: "Hacker"
+    url: /hacker/
+  - title: "Writer"
+    url: /writer/
+  - title: "Geek"
+    url: /geek/
+sidebar:
+  - title: Posts
+    children:
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
+      - title: "Years"
+        url: /years/
+  - title: Meta
+    children:
+      - title: "About"
+        url: /about/

@@ -20,8 +20,8 @@ title                    : "DigitalReplica"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DigitalReplica, LLC"
-description              : "Hacking AWS-based organizations"
-url                      : "https://digitalreplica.github.io"
+description              : "A Hacker's Guide to the Universe"
+url                      : "https://www.digitalreplica.org"
 baseurl                  : #"/"
 repository               : "digitalreplica/digitalreplica.github.io"
 teaser                   : # "/assets/images/frank-wang-4r9tYHlwTL8-unsplash-dark.jpg"
@@ -96,19 +96,19 @@ analytics:
 author:
   name             : "Danny Rappleyea"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Seeker. Writer. Hacker. Geek"
+  bio              : "Digital nomad"
   location         : "North Carolina, US"
   email            :
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/dannyrappleyea/"
     - label: "Medium"
       icon: "fab fa-medium"
       url: "https://medium.com/@danny.rappleyea"
-    - label: "DigitalReplica"
-      icon: "fas fa-fw fa-link"
-      url: "https://digitalreplica.github.io/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/digitalreplica"
+    - label: "Wattpad"
+      icon: "fas fa-link"
+      url: "https://www.wattpad.com/user/drappleyea"
 
 # Site Footer
 footer:
@@ -255,6 +255,16 @@ defaults:
       layout: single
       classes: wide
       show_date: true
-      author_profile: true
       read_time: true
       share: true
+      sidebar:
+        nav: "sidebar"
+      author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "sidebar"

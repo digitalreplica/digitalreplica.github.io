@@ -1,6 +1,6 @@
 ---
 title:  "First Pitch Retrospective"
-categories: writing
+categories: writer
 excerpt: "So having survived my first book pitch, I wanted to share some of what I learned. I pitched to Laura Zats, who was brilliantly brutal, amazing, and I learned so much. Mostly about setting up the pitch, so an agent would have the right mental image when I start talking about the book itself."
 ---
 ![First Pitch Retrospective]({{ site.url }}{{ site.baseurl }}/assets/images/2018-02-13-first-pitch-retrospective/IMG_4411-1.png)
