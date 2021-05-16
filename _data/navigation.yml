@@ -3,6 +3,8 @@ main:
     url: /articles/
   - title: "About"
     url: /about/
+  - title: "Support Me"
+    url: /donations/
 sidebar:
   - title: Tags
     children:
